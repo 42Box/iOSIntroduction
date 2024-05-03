@@ -5,6 +5,7 @@
 <br/>
 
 # 💁‍♀️💁‍♂️ Introduction
+
 안녕하세요! 42Box iOS 팀입니다. 🦊 <br/>
 42Box는 여러 웹 링크를 쉽게 저장하고 폴더별로 정리할 수 있는 앱입니다. <br/>
 도서관 서비스, 출입 관리 등 42서울 생활에 필수적인 서비스들을 기본 폴더에 모아 제공하고 있어요. <br/>
@@ -12,6 +13,7 @@
 
 
 ### ⭐️ Key Function
+
 1. 기본 42폴더 제공 
 
    > 42서울 서비스와 관련된 링크를 사전 저장한 전용 폴더를 제공합니다.
@@ -55,6 +57,7 @@
 <br/>
 
 # ⚙️ Development Environment
+
 ![iOS badge](https://img.shields.io/badge/iOS-15.0+-silver?style=flat-square)
 ![iOS badge](https://img.shields.io/badge/Xcode-15.0+-blue?style=flat-square)
 
@@ -69,6 +72,7 @@
 
 
 ### 📚 Library
+
 | Name              |Version |
 | ----------------- | ------ |
 | SnapKit           | `5.0.1`|
